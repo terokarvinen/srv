@@ -1,0 +1,2 @@
+# srv
+Salt version control
