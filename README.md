@@ -1,2 +1,1 @@
-# srv
-Salt version control
+srv - Salt version control
